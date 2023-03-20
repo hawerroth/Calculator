@@ -1,0 +1,30 @@
+HTML:
+(x) Criar título
+(x) Montar HTML com 2 inputs do tipo number e 1 botão
+(x) Utilizar id's nos inputs e botão
+(x) Criar 1 div's com id "types-of-calculations"
+
+
+
+JavaScript
+
+(x) criar função
+  (x)  ● Soma;
+  (x)  ● Subtração A-B;
+  (x)  ● Subtração B-A;
+  (x)  ● Divisão A/B;
+  (x)  ● Divisão B/A;
+  (x)  ● Multiplicação;
+  (x)  ● Potência de A na base B;
+  (x)  ● Potência de B na base A;
+  (x)  ● Raiz quadrada de A;
+  (x)  ● Raiz quadrada de B;
+  (x)  ● Fatorial de A;
+  (x)  ● Fatorial de B;
+  (x)  ● Porcentagem de A em relação a B;
+  (x)  ● Porcentagem de B em relação a A;
+  (x)  ● Média
+
+Css
+
+  (x)Estilizar
